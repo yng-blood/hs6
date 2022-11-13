@@ -85,9 +85,10 @@ width:180px; border-radius:20px; box-shadow: 10px 20px 20px black; }
 } */
 @media (max-width: 807px){
     body{background: fixed;
-        background-repeat: no-repeat;
+         background-size: cover;
+      /*   background-repeat: no-repeat;
        background-image: 100%;
-     /* width: fit-content;
+     width: fit-content;
     height: min-content; */
     background-image:url(./bg\ \(2\).jpg); 
 } 
